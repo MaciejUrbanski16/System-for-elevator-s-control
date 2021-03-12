@@ -1,0 +1,3 @@
+C:/Users/Admin/Desktop/elevators/cmake-build-debug/CMakeFiles/elevators.dir
+C:/Users/Admin/Desktop/elevators/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desktop/elevators/cmake-build-debug/CMakeFiles/rebuild_cache.dir
