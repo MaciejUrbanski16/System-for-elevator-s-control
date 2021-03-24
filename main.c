@@ -6,6 +6,7 @@
 
 int main() {
 
+    //storage status of elevators
     Elevator elevators[MAX_AMOUNT_OF_ELEVATORS];
 
     init(elevators);
