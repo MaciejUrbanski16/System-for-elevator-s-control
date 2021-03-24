@@ -122,6 +122,33 @@ elevators/fast:
 	$(MAKE) -f CMakeFiles\elevators.dir\build.make CMakeFiles/elevators.dir/build
 .PHONY : elevators/fast
 
+elevator.obj: elevator.c.obj
+
+.PHONY : elevator.obj
+
+# target to build an object file
+elevator.c.obj:
+	$(MAKE) -f CMakeFiles\elevators.dir\build.make CMakeFiles/elevators.dir/elevator.c.obj
+.PHONY : elevator.c.obj
+
+elevator.i: elevator.c.i
+
+.PHONY : elevator.i
+
+# target to preprocess a source file
+elevator.c.i:
+	$(MAKE) -f CMakeFiles\elevators.dir\build.make CMakeFiles/elevators.dir/elevator.c.i
+.PHONY : elevator.c.i
+
+elevator.s: elevator.c.s
+
+.PHONY : elevator.s
+
+# target to generate assembly for a file
+elevator.c.s:
+	$(MAKE) -f CMakeFiles\elevators.dir\build.make CMakeFiles/elevators.dir/elevator.c.s
+.PHONY : elevator.c.s
+
 main.obj: main.c.obj
 
 .PHONY : main.obj
@@ -149,6 +176,33 @@ main.c.s:
 	$(MAKE) -f CMakeFiles\elevators.dir\build.make CMakeFiles/elevators.dir/main.c.s
 .PHONY : main.c.s
 
+status.obj: status.c.obj
+
+.PHONY : status.obj
+
+# target to build an object file
+status.c.obj:
+	$(MAKE) -f CMakeFiles\elevators.dir\build.make CMakeFiles/elevators.dir/status.c.obj
+.PHONY : status.c.obj
+
+status.i: status.c.i
+
+.PHONY : status.i
+
+# target to preprocess a source file
+status.c.i:
+	$(MAKE) -f CMakeFiles\elevators.dir\build.make CMakeFiles/elevators.dir/status.c.i
+.PHONY : status.c.i
+
+status.s: status.c.s
+
+.PHONY : status.s
+
+# target to generate assembly for a file
+status.c.s:
+	$(MAKE) -f CMakeFiles\elevators.dir\build.make CMakeFiles/elevators.dir/status.c.s
+.PHONY : status.c.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -158,9 +212,15 @@ help:
 	@echo ... elevators
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... elevator.obj
+	@echo ... elevator.i
+	@echo ... elevator.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... status.obj
+	@echo ... status.i
+	@echo ... status.s
 .PHONY : help
 
 

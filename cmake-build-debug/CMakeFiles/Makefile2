@@ -73,12 +73,12 @@ preinstall:
 CMakeFiles/elevators.dir/all:
 	$(MAKE) -f CMakeFiles\elevators.dir\build.make CMakeFiles/elevators.dir/depend
 	$(MAKE) -f CMakeFiles\elevators.dir\build.make CMakeFiles/elevators.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\Admin\Desktop\elevators\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target elevators"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\Admin\Desktop\elevators\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4 "Built target elevators"
 .PHONY : CMakeFiles/elevators.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/elevators.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Admin\Desktop\elevators\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Admin\Desktop\elevators\cmake-build-debug\CMakeFiles 4
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/elevators.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Admin\Desktop\elevators\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/elevators.dir/rule

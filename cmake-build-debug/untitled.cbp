@@ -74,7 +74,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/Admin/Desktop/elevators/elevator.c">
+			<Option target="elevators"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/elevators/elevator.h">
+			<Option target="elevators"/>
+		</Unit>
 		<Unit filename="C:/Users/Admin/Desktop/elevators/main.c">
+			<Option target="elevators"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/elevators/status.c">
+			<Option target="elevators"/>
+		</Unit>
+		<Unit filename="C:/Users/Admin/Desktop/elevators/status.h">
 			<Option target="elevators"/>
 		</Unit>
 		<Unit filename="C:/Users/Admin/Desktop/elevators/CMakeLists.txt">

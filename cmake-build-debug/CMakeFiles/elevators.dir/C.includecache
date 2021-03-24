@@ -9,24 +9,26 @@
 C:/Users/Admin/Desktop/elevators/elevator.h
 stdint.h
 -
+stdlib.h
+-
 
 C:/Users/Admin/Desktop/elevators/main.c
 status.h
 C:/Users/Admin/Desktop/elevators/status.h
 stdio.h
 -
-string.h
--
-stdlib.h
--
 stdint.h
--
-windows.h
 -
 conio.h
 -
 
+C:/Users/Admin/Desktop/elevators/status.c
+status.h
+C:/Users/Admin/Desktop/elevators/status.h
+
 C:/Users/Admin/Desktop/elevators/status.h
 elevator.h
 C:/Users/Admin/Desktop/elevators/elevator.h
+stdio.h
+-
 

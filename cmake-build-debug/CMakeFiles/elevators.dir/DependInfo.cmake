@@ -4,7 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
+  "C:/Users/Admin/Desktop/elevators/elevator.c" "C:/Users/Admin/Desktop/elevators/cmake-build-debug/CMakeFiles/elevators.dir/elevator.c.obj"
   "C:/Users/Admin/Desktop/elevators/main.c" "C:/Users/Admin/Desktop/elevators/cmake-build-debug/CMakeFiles/elevators.dir/main.c.obj"
+  "C:/Users/Admin/Desktop/elevators/status.c" "C:/Users/Admin/Desktop/elevators/cmake-build-debug/CMakeFiles/elevators.dir/status.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
